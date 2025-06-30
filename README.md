@@ -21,10 +21,7 @@ Este proyecto incluye un archivo `ollama.py` que detalla cómo instalar y config
    Sigue las instrucciones detalladas en el archivo `ollama.py` para configurar correctamente el entorno.
 
 4. **Ejecutar el proyecto**  
-   Una vez configurado, puedes ejecutar el proyecto con:
-   ```bash
-   python main.py
-   ```
+   Una vez configurado, puedes visualizar en proyecto dentro del directorio notebooks: proyecto.ipynb
 
 ## Archivo `ollama.py`
 
